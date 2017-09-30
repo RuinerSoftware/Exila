@@ -10,16 +10,19 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-
 # Header 1
+Welcome to the Ruiner Software Github page!
 ## Header 2
 ### Header 3
 
 - Bulleted
 - List
 
-1. Numbered
-2. List
+    Rules
+1. Look a List!
+2. Don't Be a jerk!
+3. Have Fun!
+4. Play Games!
 
 **Bold** and _Italic_ and `Code` text
 
